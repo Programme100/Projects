@@ -1,2 +1,2 @@
 # Projects
-All of my college prohects
+All of my college projects
